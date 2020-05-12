@@ -1,5 +1,5 @@
 environment = "prod"
-s3_bucket = "amazon-aclipco-eks-eu-west-1"    #Will be used to set backend.tf
+s3_bucket = "prod-aclipco-eks-eu-west-1"    #Will be used to set backend.tf
 s3_folder_project = "application"             #Will be used to set backend.tf
 s3_folder_region = "eu-west-1"             #Will be used to set backend.tf
 s3_folder_type = "state"                      #Will be used to set backend.tf

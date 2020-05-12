@@ -1,6 +1,6 @@
 environment = "dev"
 region = "us-west-2"
-s3_bucket = "amazon-aclipco-eks-us-west-2"           #Will be used to set backend.tf
+s3_bucket = "dev-aclipco-eks-us-west-2"           #Will be used to set backend.tf
 s3_folder_project = "application"            #Will be used to set backend.tf
 s3_folder_region = "us-west-2"               #Will be used to set backend.tf
 s3_folder_type = "state"                     #Will be used to set backend.tf
